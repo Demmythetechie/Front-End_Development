@@ -1,0 +1,5 @@
+{
+    "livePreview.defaultPreviewPath": "/Landing-pg.html",
+    "css.validate": false, 
+    "tailwindCSS.emmetCompletions": true
+}
